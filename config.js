@@ -12,6 +12,6 @@ module.exports = {
     twitter: 'https://twitter.com/digimoclub',
     linkedin: 'https://ca.linkedin.com/',
   },
-  pathPrefix: '/',
+  pathPrefix: '/devblog',
   siteUrl: 'https://www.digimoclub.com',
 };
